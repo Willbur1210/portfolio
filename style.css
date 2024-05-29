@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/* pwd -> to print out your current directory
+ls -> to list all the folders/file in the current directory
+cd -> change directory
+cd .. -> go back to previous folder
+mkdir -> create a new folder
+rmdir -> delete a folder
+touch -> create a new file
+rm -> delete a file */
